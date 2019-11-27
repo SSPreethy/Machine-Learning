@@ -1,6 +1,7 @@
 # Machine-Learning
-Supervised Machine learning classification model that predicts whether or not a new customer will buy a bike
+1.Supervised Machine learning classification model that predicts whether or not a new customer will buy a bike
 
+2.Supervised Machine learning regression model that predicts the average monthly spend of a new customers.
 Dataset Description:
 
 AdvWorksCusts.csv
